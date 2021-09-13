@@ -1,0 +1,13 @@
+{
+    "slide": [{
+        "name": "svg_animated_login",
+        "id": 1,
+        "urls": ["./login-svg.component.html", "./login-svg.component.css", "./login-svg.component.ts"],
+        "description": "A login screen with lots of animations and amazing micro-interactions."
+    },{
+        "name": "",
+        "id": 2,
+        "urls": ["./login-svg.component.html", "./login-svg.component.css", "./login-svg.component.ts"],
+        "description": "A login screen with lots of animations and amazing micro-interactions."
+    }]
+}
